@@ -1,7 +1,6 @@
 ## Hello!👋
 
-Hello, I’m Samuel and I’m from Brazil. I’ve been working as a Software Engineer for almost four years. I’m currently pursuing a postgraduate degree in Software Engineering at PUC Minas. I specialize in back-end development using Java and Spring, creating and managing APIs and microservices for big companies. I’m constantly studying to be better. I also study English and already have an advanced level. I’m looking for a new opportunity, I want to contribute to the development of more products, learn more, and meet new people. At the same time, I am looking to start my international career. I want my services to reach more people around the world.
-
+Hello, I’m Samuel and I’m from Brazil. I’ve been working as a Software Engineer for 4 years. I have a Postgraduation degree in Software Engineering at PUC Minas. I specialize in back-end development using Java and Spring Boot, creating and managing APIs and microservices. I want to learn more about Java, Spring Boot, technologies that are used around APIs, and face bigger challenges. I also have interest on working with Go (Golang) and I'm open to some opportunity if it appears.
 <!--
 **samuelsilvapd61/samuelsilvapd61** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
